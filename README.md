@@ -11,20 +11,15 @@ To play, the user tells the program if he/she would like to go first, and what d
 user would like. When the program prints ‘move:’, the user inputs ‘x,y’ integer
 coordinates of where they’d like to place an O.
 
-|                           |
-| ---- | :----: | ---- | ---- |
-| 0,0  | 0,1  | 0,2  | 0,3  |
-| 1,0  | 1,1  | 1,2  | 1,3  |
-| 2,0  | 2,1  | 2,2  | 2,3  |
-| 3,0  | 3,1  | 3,2  | 3,3  |
 
 
-| Tables        | Are           | Cool  |Cool  |
+
+| Coordinates        |            |   |  |
 | ------------- |:-------------:| -----:|-----:|
-| 0,0     | 0,1 | 0,2 |      |   3,2 |   0,3 |
-| 1,0      | 1,1      |   1,2 |  1,3 |
-| 2,0 | 2,1      |    2,2 |   2,3 |
-| 3,0      | 3,1      |   3,2       |   3,3 |
+| 0,0  | 0,1 | 0,2 | 0,3 |
+| 1,0  | 1,1 | 1,2 | 1,3 |
+| 2,0  | 2,1 | 2,2 | 2,3 |
+| 3,0   3,1  | 3,2 | 3,3 |
 
 If the user tries to place an O in a space that is not empty, the program will ask them to
 try again.
