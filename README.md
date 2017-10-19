@@ -1,5 +1,7 @@
 #Tic Tac Toe
 
+Play tic tac toe!  Built using alpha beta search AI algoirthm.
+
 Getting started
 
 Command line
