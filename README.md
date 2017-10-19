@@ -18,6 +18,13 @@ coordinates of where they’d like to place an O.
 | 2,0 | 2,1 | 2,2 | 2,3 |
 | 3,0 | 3,1 | 3,2 | 3,3 |
 
+
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
 If the user tries to place an O in a space that is not empty, the program will ask them to
 try again.
 
